@@ -7,3 +7,8 @@
 .zl-main-footer .btn{
     margin-left: 1em;
 }
+
+/* page content*/
+.my-right {
+    float: right;
+}
